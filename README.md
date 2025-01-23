@@ -1,18 +1,17 @@
 <div align="center">
 
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codeaashu/Proedit)
-  ![GitHub stars](https://img.shields.io/github/stars/codeaashu/Proedit?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codeaashu/Proedit?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/warrior_aashuu?style=social)](https://twitter.com/intent/follow?screen_name=warrior_aashuu) 
+  ![GitHub repo size](https://img.shields.io/github/repo-size/pankajproject/Proedit)
+  ![GitHub stars](https://img.shields.io/github/stars/pankajproject/Proedit?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/pankajproject/Proedit?style=social)
   
-  <img src="https://github.com/codeaashu/Proedit/blob/main/img.png" width="120" />
+  <img src="https://github.com/pankajproject/Proedit/blob/main/img.png" width="120" />
   <h2 align="center">Proedit - Image Manipulation Web App</h2>
 
  ` A Web Application which allows users to easily manipulate images by adjusting brightness, saturation, inversion, grayscale, and rotation. It provides a user-friendly interface that enables users to customize their images to their preferences.⚙️ `
 
   <a href="https://proedit.vercel.app/"><strong>➥ Live Demo</strong></a>
 
-<img src="https://github.com/codeaashu/Proedit/blob/main/Damo-Pic.png" /> <hr>
+<img src="https://github.com/pankajproject/Proedit/blob/main/Damo-Pic.png" /> <hr>
 
 
 ` Features 🌟 `
@@ -40,13 +39,6 @@ To run this web application locally, follow these steps: <br>
 `2. Open index.html file in the web browser.` <hr>
 
 ` License © `
-
-<img src="https://github.com/Dynamic-Project/dp-assets/blob/main/dp%20logo%20circle.png" width="80" />
-
-This project is built under the 🌐rganization [Dynamic Project](https://github.com/Dynamic-Project)
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 <hr>
 
 `Don't forget to give star this repository ⭐`
